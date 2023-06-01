@@ -58,7 +58,7 @@ const myPORT = 3001;
 const myMONGO_URI = 'mongodb+srv://dummyuser:dummyuser123@cluster0.arzmqd1.mongodb.net/'
 const PORT = myPORT || process.env.PORT || 6001;
 mongoose
-  .connect(myMONGO_URI || process.env.MONGO_URI, {
+  .connect(myMONGO_URI || process.env.MONGODB_URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
