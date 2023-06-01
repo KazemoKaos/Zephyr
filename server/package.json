@@ -21,7 +21,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx nodemon index.js"
+    "start": "npx node index.js",
+    "dev": "npx nodemon index.js"
   },
   "keywords": [],
   "author": "",
