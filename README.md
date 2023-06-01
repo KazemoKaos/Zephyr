@@ -1,6 +1,8 @@
 # Zephyr
 Full-Stack (MERN) Responsive Social Media App
 
+MongoDB | Express.js | React.js | Node.js
+
 Deployed on Vercel (Static) | Running on Local Server until I get AWS/Azure/Another cloud service working.
 
 If you would like to test it, contact me @ tylern41653@gmail.com
