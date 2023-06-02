@@ -5,8 +5,6 @@ MongoDB | Express.js | React.js | Node.js
 
 Deployed on Vercel (Static) | Running on Local Server until I get AWS/Azure/Another cloud service working.
 
-If you would like to test it, contact me @ tylern41653@gmail.com
-
 https://zephyr-theta.vercel.app/
 
 Video Demo: https://www.youtube.com/watch?v=H41ieDSe2v4
