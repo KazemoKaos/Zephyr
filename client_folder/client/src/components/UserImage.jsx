@@ -8,7 +8,7 @@ const UserImage = ({ image, size = "60px" }) => {
         width={size}
         height={size}
         alt="user"
-        src={`https://zephyr-app.herokuapp.com/assets/${image}`}
+        src={`https://zephyr-app.onrender.com/assets/${image}`}
       />
     </Box>
   );
