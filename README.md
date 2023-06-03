@@ -3,13 +3,15 @@ Full-Stack (MERN) Responsive Social Media App
 
 MongoDB | Express.js | React.js | Node.js
 
-Deployed on Vercel (Static) | Running on Local Server (Nodemon) | Not serverless yet.
+Deployed on Vercel (Front-End) & Render (Middleware/Backend)
 
 Login Page: https://zephyr-theta.vercel.app/
 
-Home Page w/o API: https://zephyr-theta.vercel.app/home
-
 Video Demo: https://www.youtube.com/watch?v=H41ieDSe2v4
+
+Back-end Server: https://github.com/KazemoKaos/Zephyr-Main-Server
+
+Web Service Link: https://zephyr-app.onrender.com/
 
 # Features
 
