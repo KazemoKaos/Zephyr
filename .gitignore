@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 'node_modules'
 node_modules
 node_modules/*
 .env
 .env.local
 .vercel
+=======
+/node_modules
+node_modules
+>>>>>>> tmp
