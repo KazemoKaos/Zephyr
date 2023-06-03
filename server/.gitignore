@@ -1,9 +1,0 @@
-.vercel
-node_modules
-/node_modules
-npm-debug.log
-'node_modules'
-node_modules/*
-.env
-.env.local
-npm-debug
