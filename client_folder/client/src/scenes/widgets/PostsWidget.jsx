@@ -9,7 +9,7 @@ const PostsWidget = ({ userId, isProfile = false }) => {
   const token = useSelector((state) => state.token);
 
   const getPosts = async () => {
-    const response = await fetch("https://zephyr-app.herokuapp.com//posts", {
+    const response = await fetch("https://zephyr-app.herokuapp/posts", {
       method: "GET",
       headers: { Authorization: `Bearer ${token}` },
     });
