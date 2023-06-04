@@ -7,6 +7,8 @@ Deployed on Vercel (Front-End) & Render (Middleware/Backend)
 
 Login Page: https://zephyr-theta.vercel.app/
 
+*Logging in may take 30s - 1min due to Cloud Service Plan (Free Version on Render)*
+
 Video Demo: https://www.youtube.com/watch?v=H41ieDSe2v4
 
 Back-end Server: https://github.com/KazemoKaos/Zephyr-Main-Server
