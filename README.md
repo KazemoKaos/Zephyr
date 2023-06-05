@@ -15,6 +15,12 @@ Back-end Server: https://github.com/KazemoKaos/Zephyr-Main-Server
 
 Web Service Link: https://zephyr-app.onrender.com/
 
+*=================================================*
+Test Account if you don't want to sign up:
+Username: fakeemail@gmail.com
+Password: fake
+*=================================================*
+
 # Features
 
 Responsive | Log In / Sign Up / Log Out (Auth) | Add Friends | Add Posts | View Profile(s) | Post Advertisements | View Friends List | View Posts | Light / Dark Mode 
