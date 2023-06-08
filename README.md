@@ -31,6 +31,8 @@ Responsive | Log In / Sign Up / Log Out (Auth) | Add Friends | Add Posts | View 
 
 
 # Work in Progress
-![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1113713079671345162/image.png)
-![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1113713043927486554/image.png)
+![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1116267102110765176/image.png)
+![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1116267159698542592/image.png)
+![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1116267238719238174/image.png)
+![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1116267202811797524/image.png)
 ![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1113713141327609876/image.png)
