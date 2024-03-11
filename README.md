@@ -31,8 +31,8 @@ Responsive | Log In / Sign Up / Log Out (Auth) | Add Friends | Add Posts | View 
 
 
 # Work in Progress
-![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1116267102110765176/image.png)
-![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1116267159698542592/image.png)
-![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1116267238719238174/image.png)
-![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1116267202811797524/image.png)
-![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1113713141327609876/image.png)
+![img1](https://github.com/KazemoKaos/Zephyr/assets/34223008/b7f56eed-3841-47de-9efd-73e010bfa9bf)
+![img2](https://github.com/KazemoKaos/Zephyr/assets/34223008/ecbd7d3a-31b8-4185-91d6-020f9a479db7)
+![img3](https://github.com/KazemoKaos/Zephyr/assets/34223008/cf032461-915e-4b0a-92d8-84d05a96a74d)
+![img4](https://github.com/KazemoKaos/Zephyr/assets/34223008/86655906-0637-425d-9cf0-141c1391236d)
+![img5](https://github.com/KazemoKaos/Zephyr/assets/34223008/5486519e-39a8-4b3f-b833-1f3e5d69bb8a)
