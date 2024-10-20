@@ -6,6 +6,8 @@ Login Page: https://zephyr-theta.vercel.app/
 
 Video Demo: https://www.youtube.com/watch?v=H41ieDSe2v4
 
+[![Watch the video](https://img.youtube.com/vi/H41ieDSe2v4/maxresdefault.jpg)](https://youtu.be/H41ieDSe2v4)
+
 -------------------------------------------------
 
 Test Account if you don't want to sign up:
